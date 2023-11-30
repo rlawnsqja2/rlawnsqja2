@@ -5,5 +5,6 @@
 터틀 라이브러리: https://docs.python.org/ko/3/library/turtle.html <br>
 맷플롭립 라이브러리: https://matplotlib.org/  <br>
 등이 있습니다.<br>
-![깃허브2](https://github.com/rlawnsqja2/rlawnsqja2/assets/127375397/8951e709-77b4-47ef-ac37-450d00183b77) <br>
-그림도 가끔 그립니다~~~
+![깃허브2](https://github.com/rlawnsqja2/rlawnsqja2/assets/127375397/8951e709-77b4-47ef-ac37-450d00183b77) ![깃허브3](https://github.com/rlawnsqja2/rlawnsqja2/assets/127375397/ddac53f4-59c9-4217-99ad-935e676eee34)<br>
+그림도 가끔 그립니다~~~!
+
