@@ -5,6 +5,8 @@
 터틀 라이브러리: https://docs.python.org/ko/3/library/turtle.html <br>
 맷플롭립 라이브러리: https://matplotlib.org/  <br>
 등이 있습니다.<br>
-![깃허브2](https://github.com/rlawnsqja2/rlawnsqja2/assets/127375397/8951e709-77b4-47ef-ac37-450d00183b77) ![깃허브3](https://github.com/rlawnsqja2/rlawnsqja2/assets/127375397/ddac53f4-59c9-4217-99ad-935e676eee34)<br>
-그림도 가끔 그립니다~~~!
+![스크린샷 2023-09-27 132910](https://github.com/rlawnsqja2/rlawnsqja2/assets/127375397/150e61c1-0d7f-4a52-95b9-85ee7140a224) ![Figure_1](https://github.com/rlawnsqja2/rlawnsqja2/assets/127375397/3b572178-a0b5-42dc-83c3-72fcf4be9b7d) <br>
+터틀라이브러리로 그린 그림과 맷플롯립으로 공공데이터를 분석
+
+
 
